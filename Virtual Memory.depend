@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1482632084 source:/home/ahmed/Desktop/OS-2 Project/Virtual Memory/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<errno.h>
+
+1482705496 source:/home/ahmed/Desktop/Virtual Memory/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<errno.h>
+
+1482759014 source:/home/ahmed/Desktop/VirtualMemory/main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+	<sys/mman.h>
+	<unistd.h>
+
+1482759014 source:/media/ahmed/Data/FCIH 2016/Operating Systems 2/VirtualMemory/main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+	<sys/mman.h>
+	<unistd.h>
+
